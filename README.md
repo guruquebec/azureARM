@@ -1,0 +1,2 @@
+# azureARM
+ARM template trail
